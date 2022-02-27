@@ -16,3 +16,4 @@ ios/**/*
 android/
 android/*
 android/**/*
+**/.DS_Store
