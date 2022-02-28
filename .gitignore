@@ -17,3 +17,4 @@ android/
 android/*
 android/**/*
 **/.DS_Store
+.idea
