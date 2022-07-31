@@ -16,3 +16,9 @@ yarn start
 ```
 eas build -p android --profile preview
 ```
+
+-   IOS
+
+```
+eas build -p ios --profile preview
+```
